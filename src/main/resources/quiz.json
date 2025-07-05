@@ -1,0 +1,154 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the primary goal of Software Quality Assurance?",
+    "option 1": "To ensure the software is bug-free",
+    "option 2": "To improve the efficiency of the development process",
+    "option 3": "To maintain the software quality throughout the development life cycle",
+    "option 4": "To meet client deadlines",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is used to verify if the software product meets the requirements?",
+    "option 1": "Validation",
+    "option 2": "Verification",
+    "option 3": "Regression Testing",
+    "option 4": "Functional Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is a test case?",
+    "option 1": "A document that outlines the test results",
+    "option 2": "A set of conditions or variables under which a tester will determine if a system or part of the system is working correctly",
+    "option 3": "A tool used to automate testing",
+    "option 4": "A testing tool used to manage defects",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing technique is used to test the system from an end user's perspective?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What does the term 'bug' refer to in software testing?",
+    "option 1": "An error in the documentation",
+    "option 2": "A defect or issue in the software code",
+    "option 3": "A requirement mismatch",
+    "option 4": "A successful test case execution",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the difference between verification and validation?",
+    "option 1": "Verification is done to ensure the software meets the business needs, validation checks if the software is built correctly",
+    "option 2": "Verification checks if the product was built correctly, while validation ensures the product is the right solution",
+    "option 3": "Verification and validation are the same",
+    "option 4": "None of the above",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a type of non-functional testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Stress Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Functional Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is a traceability matrix?",
+    "option 1": "A document that maps requirements to test cases",
+    "option 2": "A map that shows the system architecture",
+    "option 3": "A document that outlines the project schedule",
+    "option 4": "A chart showing the defect density",
+    "answerkey": 1
+  },
+  {
+    "question": "What is regression testing?",
+    "option 1": "Testing the functionality of a new feature",
+    "option 2": "Testing the system’s response under heavy load",
+    "option 3": "Testing the software after updates to ensure existing functionality is unaffected",
+    "option 4": "Testing individual units of code",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the difference between Alpha and Beta Testing?",
+    "option 1": "Alpha testing is done by end users, and beta testing is done by developers",
+    "option 2": "Alpha testing is done before release, and beta testing is done after release",
+    "option 3": "Alpha testing is part of unit testing, while beta testing is part of system testing",
+    "option 4": "Alpha testing is done by the client, and beta testing is done by the development team",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the main goal of acceptance testing?",
+    "option 1": "To test individual components of the software",
+    "option 2": "To ensure the software works as expected from the user’s perspective",
+    "option 3": "To verify the security of the software",
+    "option 4": "To validate the system’s performance",
+    "answerkey": 2
+  },
+  {
+    "question": "What does 'smoke testing' mean?",
+    "option 1": "Testing the critical functionality of the software",
+    "option 2": "A type of regression testing to check software stability",
+    "option 3": "Initial testing to check whether the build is stable enough to proceed with more extensive testing",
+    "option 4": "Testing software for memory leaks",
+    "answerkey": 3
+  },
+  {
+    "question": "What is performance testing?",
+    "option 1": "Testing to see how well the software performs under load",
+    "option 2": "Testing to check the usability of the software",
+    "option 3": "Testing to find defects in the code",
+    "option 4": "Testing to ensure the software is bug-free",
+    "answerkey": 1
+  },
+  {
+    "question": "What does 'defect density' refer to in software testing?",
+    "option 1": "The number of defects in the system",
+    "option 2": "The number of defects per unit of code",
+    "option 3": "The total number of failed test cases",
+    "option 4": "The rate at which defects are found",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of a test strategy?",
+    "option 1": "To outline how testing will be conducted",
+    "option 2": "To define the testing tools to be used",
+    "option 3": "To determine the testing schedule",
+    "option 4": "To document the defects found during testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the difference between white-box testing and black-box testing?",
+    "option 1": "White-box testing is done by testers with knowledge of the code, while black-box testing is done by testers without knowledge of the code",
+    "option 2": "White-box testing tests individual units, while black-box testing tests the entire system",
+    "option 3": "White-box testing is for functional requirements, and black-box testing is for non-functional requirements",
+    "option 4": "White-box testing is faster than black-box testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is continuous integration in software development?",
+    "option 1": "Integrating all components at the end of the project",
+    "option 2": "Continuous testing of new features in isolation",
+    "option 3": "Automating the build and integration process, ensuring that code changes are continuously tested and integrated",
+    "option 4": "A process where the team continuously adds more features to the software",
+    "answerkey": 3
+  },
+  {
+    "question": "What is a defect lifecycle?",
+    "option 1": "The stages a defect goes through, from detection to resolution",
+    "option 2": "The period during which defects are tracked and fixed",
+    "option 3": "The time taken to identify and fix a defect",
+    "option 4": "The process of identifying and reporting defects",
+    "answerkey": 1
+  }
+]
